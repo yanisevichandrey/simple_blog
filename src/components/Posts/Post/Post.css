@@ -1,0 +1,23 @@
+.Post {
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    position: relative;
+}
+
+.Post_title {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.Post_text{
+    font-size: 16px;
+}
+
+.Post_delete {
+    position: absolute;
+    top: 5px;
+    left: 98%;
+    cursor: pointer;
+}
